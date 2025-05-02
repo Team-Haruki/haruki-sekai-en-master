@@ -7889,7 +7889,7 @@
         "assetbundleName": "stamp0722",
         "balloonAssetbundleName": "balloon_stamp_01",
         "archivePublishedAt": 1735027200000,
-        "description": "Christmas Login Campaign"
+        "description": "Obtain in Christmas Login Campaign"
     },
     {
         "id": 723,
@@ -8064,6 +8064,18 @@
         "gameCharacterUnitId": 2,
         "archivePublishedAt": 1745186400000,
         "description": "Join the Parallel Harmonies After Show."
+    },
+    {
+        "id": 738,
+        "stampType": "illustration",
+        "seq": 9990,
+        "name": "[Stamp] An: I will win",
+        "assetbundleName": "stamp0738",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 10,
+        "gameCharacterUnitId": 10,
+        "archivePublishedAt": 1746050400000,
+        "description": "Join the Whip Yourself into Shape! After Show."
     },
     {
         "id": 741,
@@ -8750,6 +8762,19 @@
         "description": "JP 3.5Y Exchange lineup. (Mar. 30, 2025 - May 14, 2025)"
     },
     {
+        "id": 874,
+        "stampType": "illustration",
+        "seq": 10690,
+        "name": "[Stamp] Miku: I hope my feelings reach them",
+        "assetbundleName": "stamp0874",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 21,
+        "gameCharacterUnitId": 21,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1745866800000,
+        "description": "劇場版プロジェクトセカイ連動\nスタンプラリーで獲得"
+    },
+    {
         "id": 101021,
         "stampType": "illustration",
         "seq": 7130,
@@ -9060,6 +9085,18 @@
         "characterId2": 22,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Saki & Rin's Trust Rank to 66."
+    },
+    {
+        "id": 102231,
+        "stampType": "illustration",
+        "seq": 9960,
+        "name": "[Stamp] Saki & Len: Great song, Saki!",
+        "assetbundleName": "stamp102231",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 2,
+        "characterId2": 23,
+        "archivePublishedAt": 1746039600000,
+        "description": "Increase Saki & Len's Trust Rank to 66."
     },
     {
         "id": 102241,
@@ -9456,6 +9493,18 @@
         "characterId2": 22,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Minori & Rin's Trust Rank to 66."
+    },
+    {
+        "id": 105231,
+        "stampType": "illustration",
+        "seq": 9970,
+        "name": "[Stamp] Minori & Len: I'm gonna treasure it all",
+        "assetbundleName": "stamp105231",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 5,
+        "characterId2": 23,
+        "archivePublishedAt": 1746039600000,
+        "description": "Increase Minori & Len's Trust Rank to 66."
     },
     {
         "id": 105241,
@@ -10644,6 +10693,18 @@
         "characterId2": 24,
         "archivePublishedAt": 1727672400000,
         "description": "Increase Rui & Luka's Trust Rank to 66."
+    },
+    {
+        "id": 116251,
+        "stampType": "illustration",
+        "seq": 9980,
+        "name": "[Stamp] Rui & MEIKO: Your feelings shined through, Rui",
+        "assetbundleName": "stamp116251",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 16,
+        "characterId2": 25,
+        "archivePublishedAt": 1746039600000,
+        "description": "Increase Rui & MEIKO's Trust Rank to 66."
     },
     {
         "id": 116261,
