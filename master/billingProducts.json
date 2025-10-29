@@ -3088,6 +3088,22 @@
     "unitPrice": 0.59399998188018799
   },
   {
+    "id": 50168,
+    "groupId": 50168,
+    "platform": "iOS",
+    "productId": "com.sega.colorfulstage.en.campaign.0098",
+    "price": 2.99000000953674316,
+    "unitPrice": 1.05799996852874756
+  },
+  {
+    "id": 50169,
+    "groupId": 50168,
+    "platform": "Android",
+    "productId": "com.sega.colorfulstage.en.campaign.0098",
+    "price": 2.99000000953674316,
+    "unitPrice": 1.05799996852874756
+  },
+  {
     "id": 80000,
     "groupId": 80000,
     "platform": "iOS",
