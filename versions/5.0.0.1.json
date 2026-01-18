@@ -6,5 +6,6 @@
   "assetVersion": "5.0.0.1",
   "appHash": "8531f9ec-8c84-40cf-938a-5b4425b9fd9a",
   "assetHash": "e2134a7e-54e3-4556-a01b-d6e6734c2506",
-  "appVersionStatus": "available"
+  "appVersionStatus": "available",
+  "cdnVersion": 0
 }

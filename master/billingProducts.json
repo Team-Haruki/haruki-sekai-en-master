@@ -4,71 +4,71 @@
     "groupId": 1,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 2,
     "groupId": 1,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 3,
     "groupId": 2,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0002",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 4,
     "groupId": 2,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0002",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 5,
     "groupId": 3,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0003",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 6,
     "groupId": 3,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0003",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 7,
     "groupId": 4,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0004",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 8,
     "groupId": 4,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0004",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 9,
     "groupId": 5,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0005",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -76,7 +76,7 @@
     "groupId": 5,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0005",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -84,695 +84,695 @@
     "groupId": 6,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0006",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 12,
     "groupId": 6,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0006",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 13,
     "groupId": 7,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.crystal.0007",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 14,
     "groupId": 7,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.crystal.0007",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 15,
     "groupId": 8,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 16,
     "groupId": 8,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 17,
     "groupId": 9,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 18,
     "groupId": 9,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 19,
     "groupId": 10,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 20,
     "groupId": 10,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 21,
     "groupId": 11,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0004",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 22,
     "groupId": 11,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0004",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 23,
     "groupId": 12,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.livep.0001",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 24,
     "groupId": 12,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.livep.0001",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 27,
     "groupId": 14,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0002",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 28,
     "groupId": 14,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0002",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 29,
     "groupId": 15,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0003",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 30,
     "groupId": 15,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0003",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 35,
     "groupId": 18,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0001",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 36,
     "groupId": 18,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0001",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 37,
     "groupId": 19,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0002",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 38,
     "groupId": 19,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0002",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 39,
     "groupId": 20,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 40,
     "groupId": 20,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 41,
     "groupId": 21,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0006",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 42,
     "groupId": 21,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0006",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 45,
     "groupId": 23,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0005",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 46,
     "groupId": 23,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0005",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 47,
     "groupId": 24,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0007",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 48,
     "groupId": 24,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0007",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 49,
     "groupId": 25,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.christmas.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50,
     "groupId": 25,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.christmas.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 51,
     "groupId": 26,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.christmas.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 52,
     "groupId": 26,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.christmas.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 53,
     "groupId": 27,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.newyear.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 54,
     "groupId": 27,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.newyear.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 55,
     "groupId": 28,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.newyear.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 56,
     "groupId": 28,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.newyear.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 57,
     "groupId": 29,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.newyear.set.0001",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 58,
     "groupId": 29,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.newyear.set.0001",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 59,
     "groupId": 30,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.newyear.set.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 60,
     "groupId": 30,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.newyear.set.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 61,
     "groupId": 31,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.newyear.set.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 62,
     "groupId": 31,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.newyear.set.0003",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 63,
     "groupId": 32,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0005",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 64,
     "groupId": 32,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0005",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 65,
     "groupId": 33,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.livep.0002",
-    "price": 17.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 17.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 66,
     "groupId": 33,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.livep.0002",
-    "price": 17.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 17.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 67,
     "groupId": 34,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0001",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 68,
     "groupId": 34,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0001",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 69,
     "groupId": 35,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 70,
     "groupId": 35,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 71,
     "groupId": 36,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0003",
-    "price": 40.99000167846679688,
-    "unitPrice": 1.08899998664855957
+    "price": 40.9900016784668,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 72,
     "groupId": 36,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.set.0003",
-    "price": 40.99000167846679688,
-    "unitPrice": 1.08899998664855957
+    "price": 40.9900016784668,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 73,
     "groupId": 37,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0004",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 74,
     "groupId": 37,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0004",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 75,
     "groupId": 38,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0005",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 76,
     "groupId": 38,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0005",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 77,
     "groupId": 39,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0006",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 78,
     "groupId": 39,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0006",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 79,
     "groupId": 40,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 80,
     "groupId": 40,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 81,
     "groupId": 41,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 82,
     "groupId": 41,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.halfyearanniversary.0002",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 89,
     "groupId": 45,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0021",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 90,
     "groupId": 45,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0021",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 97,
     "groupId": 49,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0014",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 98,
     "groupId": 49,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0014",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 99,
     "groupId": 50,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0015",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 100,
     "groupId": 50,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0015",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 101,
     "groupId": 51,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0016",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 102,
     "groupId": 51,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0016",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 103,
     "groupId": 52,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0017",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 104,
     "groupId": 52,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0017",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 105,
     "groupId": 53,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0018",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 106,
     "groupId": 53,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0018",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 107,
     "groupId": 54,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0019",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 108,
     "groupId": 54,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0019",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 109,
     "groupId": 56,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0020",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 110,
     "groupId": 56,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0020",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 111,
     "groupId": 57,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0021",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 112,
     "groupId": 57,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0021",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 113,
     "groupId": 58,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0022",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 114,
     "groupId": 58,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0022",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 115,
     "groupId": 59,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0023",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 116,
     "groupId": 59,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0023",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 117,
     "groupId": 60,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0024",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -780,7 +780,7 @@
     "groupId": 60,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0024",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -788,55 +788,55 @@
     "groupId": 61,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0025",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 120,
     "groupId": 61,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0025",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 121,
     "groupId": 62,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0026",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 122,
     "groupId": 62,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0026",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 123,
     "groupId": 63,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.0025",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 124,
     "groupId": 63,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.0025",
-    "price": 15.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 15.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 125,
     "groupId": 64,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0034",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -844,7 +844,7 @@
     "groupId": 64,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0034",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -852,39 +852,39 @@
     "groupId": 65,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0035",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 128,
     "groupId": 65,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0035",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 129,
     "groupId": 66,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0036",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 130,
     "groupId": 66,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0036",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 143,
     "groupId": 73,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0053",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -892,7 +892,7 @@
     "groupId": 73,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0053",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -900,39 +900,39 @@
     "groupId": 74,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0054",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 146,
     "groupId": 74,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0054",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 147,
     "groupId": 75,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0055",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 148,
     "groupId": 75,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0055",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 149,
     "groupId": 76,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.beginnerset.0009",
-    "price": 39.99000167846679688,
+    "price": 39.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -940,7 +940,7 @@
     "groupId": 76,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.beginnerset.0009",
-    "price": 39.99000167846679688,
+    "price": 39.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -948,7 +948,7 @@
     "groupId": 77,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0074",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -956,7 +956,7 @@
     "groupId": 77,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0074",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -964,39 +964,39 @@
     "groupId": 78,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0075",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 154,
     "groupId": 78,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0075",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 155,
     "groupId": 79,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0076",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 156,
     "groupId": 79,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0076",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 157,
     "groupId": 80,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0079",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1004,7 +1004,7 @@
     "groupId": 80,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0079",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1012,39 +1012,39 @@
     "groupId": 81,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0080",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 160,
     "groupId": 81,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0080",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 161,
     "groupId": 82,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0081",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 162,
     "groupId": 82,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0081",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 182,
     "groupId": 92,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0095",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1052,7 +1052,7 @@
     "groupId": 92,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0095",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1060,39 +1060,39 @@
     "groupId": 93,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0096",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 186,
     "groupId": 93,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0096",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 188,
     "groupId": 94,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0097",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 189,
     "groupId": 94,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0097",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 191,
     "groupId": 95,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0109",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1100,7 +1100,7 @@
     "groupId": 95,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0109",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1108,583 +1108,583 @@
     "groupId": 96,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0110",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 195,
     "groupId": 96,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0110",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 197,
     "groupId": 97,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0111",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 198,
     "groupId": 97,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0111",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 200,
     "groupId": 100,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.mysekai.world.pass.0001",
-    "price": 11.98999977111816406,
-    "unitPrice": 0.92000001668930054
+    "price": 11.989999771118164,
+    "unitPrice": 0.9200000166893005
   },
   {
     "id": 201,
     "groupId": 100,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.mysekai.world.pass.0001",
-    "price": 11.98999977111816406,
-    "unitPrice": 0.92000001668930054
+    "price": 11.989999771118164,
+    "unitPrice": 0.9200000166893005
   },
   {
     "id": 202,
     "groupId": 101,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.mysekai.mission.pass.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 0.89999997615814209
+    "price": 15.989999771118164,
+    "unitPrice": 0.8999999761581421
   },
   {
     "id": 203,
     "groupId": 101,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.mysekai.mission.pass.0001",
-    "price": 15.98999977111816406,
-    "unitPrice": 0.89999997615814209
+    "price": 15.989999771118164,
+    "unitPrice": 0.8999999761581421
   },
   {
     "id": 204,
     "groupId": 102,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.mysekai.mission.pass.0002",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 205,
     "groupId": 102,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.mysekai.mission.pass.0002",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 206,
     "groupId": 103,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.premium.mission.pass.0002",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 207,
     "groupId": 103,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.premium.mission.pass.0002",
-    "price": 11.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 11.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 208,
     "groupId": 104,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.mission.pass.set.0001",
-    "price": 27.95000076293945312,
-    "unitPrice": 0.81999999284744263
+    "price": 27.950000762939453,
+    "unitPrice": 0.8199999928474426
   },
   {
     "id": 209,
     "groupId": 104,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.mission.pass.set.0001",
-    "price": 27.95000076293945312,
-    "unitPrice": 0.81999999284744263
+    "price": 27.950000762939453,
+    "unitPrice": 0.8199999928474426
   },
   {
     "id": 20100,
     "groupId": 20100,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20101,
     "groupId": 20100,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20102,
     "groupId": 20101,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20103,
     "groupId": 20101,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0002",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20104,
     "groupId": 20102,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0003",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20105,
     "groupId": 20102,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0003",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20106,
     "groupId": 20103,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0004",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20107,
     "groupId": 20103,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0004",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20108,
     "groupId": 20104,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0005",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20109,
     "groupId": 20104,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0005",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20110,
     "groupId": 20105,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0006",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20111,
     "groupId": 20105,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0006",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20112,
     "groupId": 20106,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0007",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20113,
     "groupId": 20106,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0007",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20114,
     "groupId": 20107,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0008",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20115,
     "groupId": 20107,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0008",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20116,
     "groupId": 20108,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0009",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20117,
     "groupId": 20108,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0009",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20118,
     "groupId": 20109,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0010",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20119,
     "groupId": 20109,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0010",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20120,
     "groupId": 20110,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0011",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20121,
     "groupId": 20110,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0011",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20122,
     "groupId": 20111,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0012",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20123,
     "groupId": 20111,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0012",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20124,
     "groupId": 20112,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0013",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20125,
     "groupId": 20112,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0013",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20126,
     "groupId": 20113,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0014",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20127,
     "groupId": 20113,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0014",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 20128,
     "groupId": 20114,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0015",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20129,
     "groupId": 20114,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0015",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20130,
     "groupId": 20115,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0016",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20131,
     "groupId": 20115,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0016",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20132,
     "groupId": 20116,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0017",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20133,
     "groupId": 20116,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0017",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20134,
     "groupId": 20117,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0018",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20135,
     "groupId": 20117,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0018",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20136,
     "groupId": 20118,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0019",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20137,
     "groupId": 20118,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0019",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20138,
     "groupId": 20119,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0020",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20139,
     "groupId": 20119,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0020",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20140,
     "groupId": 20120,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0021",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20141,
     "groupId": 20120,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0021",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20142,
     "groupId": 20142,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0022",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20143,
     "groupId": 20142,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0022",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20144,
     "groupId": 20144,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0023",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20145,
     "groupId": 20144,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0023",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20146,
     "groupId": 20146,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0024",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20147,
     "groupId": 20146,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0024",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20148,
     "groupId": 20148,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0025",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20149,
     "groupId": 20148,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0025",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20150,
     "groupId": 20150,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0026",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20151,
     "groupId": 20150,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0026",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20152,
     "groupId": 20152,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0027",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20153,
     "groupId": 20152,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0027",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20154,
     "groupId": 20154,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0028",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20155,
     "groupId": 20154,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0028",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20156,
     "groupId": 20156,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0029",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20157,
     "groupId": 20156,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0029",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20158,
     "groupId": 20158,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0030",
-    "price": 19.98999977111816406,
+    "price": 19.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1692,7 +1692,7 @@
     "groupId": 20158,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0030",
-    "price": 19.98999977111816406,
+    "price": 19.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1700,7 +1700,7 @@
     "groupId": 20160,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0031",
-    "price": 37.99000167846679688,
+    "price": 37.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1708,7 +1708,7 @@
     "groupId": 20160,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0031",
-    "price": 37.99000167846679688,
+    "price": 37.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1716,7 +1716,7 @@
     "groupId": 20162,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0032",
-    "price": 37.99000167846679688,
+    "price": 37.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1724,7 +1724,7 @@
     "groupId": 20162,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0032",
-    "price": 37.99000167846679688,
+    "price": 37.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1732,151 +1732,151 @@
     "groupId": 20164,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0033",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20165,
     "groupId": 20164,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0033",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20166,
     "groupId": 20166,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0034",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20167,
     "groupId": 20166,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0034",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20168,
     "groupId": 20168,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0035",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20169,
     "groupId": 20168,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0035",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20170,
     "groupId": 20170,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0036",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20171,
     "groupId": 20170,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0036",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20172,
     "groupId": 20172,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0037",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20173,
     "groupId": 20172,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0037",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20174,
     "groupId": 20174,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0038",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20175,
     "groupId": 20174,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0038",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20176,
     "groupId": 20176,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0039",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20177,
     "groupId": 20176,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0039",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20178,
     "groupId": 20178,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0040",
-    "price": 6.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 6.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20179,
     "groupId": 20178,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0040",
-    "price": 6.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 6.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 20180,
     "groupId": 20180,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0041",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20181,
     "groupId": 20180,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0041",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20182,
     "groupId": 20182,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0042",
-    "price": 27.98999977111816406,
+    "price": 27.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1884,7 +1884,7 @@
     "groupId": 20182,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0042",
-    "price": 27.98999977111816406,
+    "price": 27.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -1892,7 +1892,7 @@
     "groupId": 20184,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0043",
-    "price": 49.99000167846679688,
+    "price": 49.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1900,7 +1900,7 @@
     "groupId": 20184,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0043",
-    "price": 49.99000167846679688,
+    "price": 49.9900016784668,
     "unitPrice": 1.0
   },
   {
@@ -1908,455 +1908,455 @@
     "groupId": 20186,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0044",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20187,
     "groupId": 20186,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0044",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 20188,
     "groupId": 20188,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0045",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20189,
     "groupId": 20188,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0045",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20190,
     "groupId": 20190,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.offer.0046",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 20191,
     "groupId": 20190,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.offer.0046",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50000,
     "groupId": 50000,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9007",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50001,
     "groupId": 50000,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9007",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50002,
     "groupId": 50001,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9008",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50003,
     "groupId": 50001,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9008",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50004,
     "groupId": 50002,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9009",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50005,
     "groupId": 50002,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9009",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50006,
     "groupId": 50003,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9021",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50007,
     "groupId": 50003,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9021",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50008,
     "groupId": 50004,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9022",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50009,
     "groupId": 50004,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9022",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50010,
     "groupId": 50005,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9023",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50011,
     "groupId": 50005,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9023",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50012,
     "groupId": 50006,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9024",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50013,
     "groupId": 50006,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9024",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50014,
     "groupId": 50014,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0010",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50015,
     "groupId": 50014,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0010",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50016,
     "groupId": 50016,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0011",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50017,
     "groupId": 50016,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0011",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50018,
     "groupId": 50018,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0012",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50019,
     "groupId": 50018,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0012",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50020,
     "groupId": 50020,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0013",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50021,
     "groupId": 50020,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0013",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50022,
     "groupId": 50022,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9907",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50023,
     "groupId": 50022,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9907",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50024,
     "groupId": 50024,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9908",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50025,
     "groupId": 50024,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9908",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50026,
     "groupId": 50026,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9909",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50027,
     "groupId": 50026,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9909",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50028,
     "groupId": 50028,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9921",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50029,
     "groupId": 50028,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9921",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50030,
     "groupId": 50030,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9922",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50031,
     "groupId": 50030,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9922",
-    "price": 3.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 3.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50032,
     "groupId": 50032,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9923",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50033,
     "groupId": 50032,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9923",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50034,
     "groupId": 50034,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.set.9924",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50035,
     "groupId": 50034,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.set.9924",
-    "price": 79.98999786376953125,
-    "unitPrice": 1.08700001239776611
+    "price": 79.98999786376953,
+    "unitPrice": 1.0870000123977661
   },
   {
     "id": 50036,
     "groupId": 50036,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9917",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50037,
     "groupId": 50036,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9917",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50038,
     "groupId": 50038,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9918",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50039,
     "groupId": 50038,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9918",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50040,
     "groupId": 50040,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9919",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50041,
     "groupId": 50040,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9919",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50042,
     "groupId": 50042,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9920",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50043,
     "groupId": 50042,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9920",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50044,
     "groupId": 50044,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9921",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50045,
     "groupId": 50044,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9921",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50046,
     "groupId": 50046,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9922",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50047,
     "groupId": 50046,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9922",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50048,
     "groupId": 50048,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9923",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50049,
     "groupId": 50048,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9923",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50050,
     "groupId": 50050,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9924",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2364,7 +2364,7 @@
     "groupId": 50050,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9924",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2372,103 +2372,103 @@
     "groupId": 50052,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9925",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50053,
     "groupId": 50052,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9925",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50054,
     "groupId": 50054,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.9926",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50055,
     "groupId": 50054,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.9926",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50056,
     "groupId": 50056,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0027",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50057,
     "groupId": 50056,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0027",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50058,
     "groupId": 50058,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0028",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50059,
     "groupId": 50058,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0028",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50060,
     "groupId": 50060,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0029",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50061,
     "groupId": 50060,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0029",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50062,
     "groupId": 50062,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0030",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50063,
     "groupId": 50062,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0030",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50064,
     "groupId": 50064,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0031",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2476,7 +2476,7 @@
     "groupId": 50064,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0031",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2484,103 +2484,103 @@
     "groupId": 50066,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0032",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50067,
     "groupId": 50066,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0032",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50068,
     "groupId": 50068,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0033",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50069,
     "groupId": 50068,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0033",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50070,
     "groupId": 50070,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0037",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50071,
     "groupId": 50070,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0037",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50072,
     "groupId": 50072,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0038",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50073,
     "groupId": 50072,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0038",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50076,
     "groupId": 50076,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0040",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50077,
     "groupId": 50076,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0040",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50078,
     "groupId": 50078,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0041",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50079,
     "groupId": 50078,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0041",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50080,
     "groupId": 50080,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0042",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2588,7 +2588,7 @@
     "groupId": 50080,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0042",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2596,39 +2596,39 @@
     "groupId": 50082,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0043",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50083,
     "groupId": 50082,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0043",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50084,
     "groupId": 50084,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0044",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50085,
     "groupId": 50084,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0044",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50086,
     "groupId": 50086,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0045",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2636,7 +2636,7 @@
     "groupId": 50086,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0045",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2644,87 +2644,87 @@
     "groupId": 50088,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0046",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50089,
     "groupId": 50088,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0046",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50090,
     "groupId": 50090,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0047",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50091,
     "groupId": 50090,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0047",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50092,
     "groupId": 50092,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0048",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50093,
     "groupId": 50092,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0048",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50094,
     "groupId": 50094,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0049",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50095,
     "groupId": 50094,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0049",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50096,
     "groupId": 50096,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0050",
-    "price": 12.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 12.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50097,
     "groupId": 50096,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0050",
-    "price": 12.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 12.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50098,
     "groupId": 50098,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0051",
-    "price": 29.98999977111816406,
+    "price": 29.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2732,7 +2732,7 @@
     "groupId": 50098,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0051",
-    "price": 29.98999977111816406,
+    "price": 29.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2740,71 +2740,71 @@
     "groupId": 50100,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0052",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50101,
     "groupId": 50100,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0052",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50102,
     "groupId": 50102,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0056",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50103,
     "groupId": 50102,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0056",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50104,
     "groupId": 50104,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0057",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50105,
     "groupId": 50104,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0057",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50106,
     "groupId": 50106,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0058",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50107,
     "groupId": 50106,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0058",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50116,
     "groupId": 50116,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0063",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2812,7 +2812,7 @@
     "groupId": 50116,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0063",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2820,103 +2820,103 @@
     "groupId": 50118,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0064",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50119,
     "groupId": 50118,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0064",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50120,
     "groupId": 50120,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0065",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50121,
     "groupId": 50120,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0065",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50122,
     "groupId": 50122,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0066",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50123,
     "groupId": 50122,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0066",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50124,
     "groupId": 50124,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0067",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50125,
     "groupId": 50124,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0067",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50126,
     "groupId": 50126,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0068",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50127,
     "groupId": 50126,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0068",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50128,
     "groupId": 50128,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0069",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50129,
     "groupId": 50128,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0069",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50130,
     "groupId": 50130,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0070",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2924,7 +2924,7 @@
     "groupId": 50130,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0070",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -2932,103 +2932,103 @@
     "groupId": 50132,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0071",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50133,
     "groupId": 50132,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0071",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50134,
     "groupId": 50134,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0072",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50135,
     "groupId": 50134,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0072",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50136,
     "groupId": 50136,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0073",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50137,
     "groupId": 50136,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0073",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50138,
     "groupId": 50138,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0077",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50139,
     "groupId": 50138,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0077",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50140,
     "groupId": 50140,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0078",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50141,
     "groupId": 50140,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0078",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50142,
     "groupId": 50142,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0082",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50143,
     "groupId": 50142,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0082",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50144,
     "groupId": 50144,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0083",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3036,7 +3036,7 @@
     "groupId": 50144,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0083",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3044,71 +3044,71 @@
     "groupId": 50146,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0084",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50147,
     "groupId": 50146,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0084",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50148,
     "groupId": 50148,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0085",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50149,
     "groupId": 50148,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0085",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50150,
     "groupId": 50150,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0086",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50151,
     "groupId": 50150,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0086",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50152,
     "groupId": 50152,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0087",
-    "price": 12.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 12.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50153,
     "groupId": 50152,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0087",
-    "price": 12.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 12.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50154,
     "groupId": 50154,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0088",
-    "price": 29.98999977111816406,
+    "price": 29.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3116,7 +3116,7 @@
     "groupId": 50154,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0088",
-    "price": 29.98999977111816406,
+    "price": 29.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3124,119 +3124,119 @@
     "groupId": 50156,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0089",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50157,
     "groupId": 50156,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0089",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 50158,
     "groupId": 50158,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0090",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50159,
     "groupId": 50158,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0090",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50160,
     "groupId": 50160,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0091",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50161,
     "groupId": 50160,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0091",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50162,
     "groupId": 50162,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0092",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50163,
     "groupId": 50162,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0092",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50164,
     "groupId": 50164,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0093",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50165,
     "groupId": 50164,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0093",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50166,
     "groupId": 50166,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0094",
-    "price": 9.98999977111816406,
-    "unitPrice": 0.59399998188018799
+    "price": 9.989999771118164,
+    "unitPrice": 0.593999981880188
   },
   {
     "id": 50167,
     "groupId": 50166,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0094",
-    "price": 9.98999977111816406,
-    "unitPrice": 0.59399998188018799
+    "price": 9.989999771118164,
+    "unitPrice": 0.593999981880188
   },
   {
     "id": 50168,
     "groupId": 50168,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0098",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50169,
     "groupId": 50168,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0098",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50170,
     "groupId": 50170,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0099",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3244,7 +3244,7 @@
     "groupId": 50170,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0099",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3252,103 +3252,103 @@
     "groupId": 50172,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0100",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50173,
     "groupId": 50172,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0100",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50174,
     "groupId": 50174,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0101",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50175,
     "groupId": 50174,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0101",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50176,
     "groupId": 50176,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0102",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50177,
     "groupId": 50176,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0102",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 50178,
     "groupId": 50178,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0103",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50179,
     "groupId": 50178,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0103",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.05799996852874756
+    "price": 2.990000009536743,
+    "unitPrice": 1.0579999685287476
   },
   {
     "id": 50180,
     "groupId": 50180,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0104",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50181,
     "groupId": 50180,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0104",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 50182,
     "groupId": 50182,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0105",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50183,
     "groupId": 50182,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0105",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 50184,
     "groupId": 50184,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0106",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3356,7 +3356,7 @@
     "groupId": 50184,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0106",
-    "price": 24.98999977111816406,
+    "price": 24.989999771118164,
     "unitPrice": 1.0
   },
   {
@@ -3364,136 +3364,136 @@
     "groupId": 50186,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0107",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50187,
     "groupId": 50186,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0107",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 50188,
     "groupId": 50188,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.campaign.0108",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 50189,
     "groupId": 50188,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.campaign.0108",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 80000,
     "groupId": 80000,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.monthlypack.0001",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 80001,
     "groupId": 80000,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.monthlypack.0001",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 80002,
     "groupId": 80002,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.weeklypack.0001",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 80003,
     "groupId": 80002,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.weeklypack.0001",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 80004,
     "groupId": 80004,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.dailypack.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 80005,
     "groupId": 80004,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.dailypack.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200001,
     "groupId": 1,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0001",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200002,
     "groupId": 2,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0002",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200003,
     "groupId": 3,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0003",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 200004,
     "groupId": 4,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0004",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 200005,
     "groupId": 5,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0005",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200006,
     "groupId": 6,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0006",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 200007,
     "groupId": 7,
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0007",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 200008,
@@ -3501,7 +3501,7 @@
     "platform": "GlRazerGold",
     "productId": "com.sega.colorfulstage.en.razer.crystal.0008",
     "price": 0.44999998807907104,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200009,
@@ -3509,63 +3509,63 @@
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0009",
     "price": 0.49000000953674316,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200010,
     "groupId": 200010,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0010",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200011,
     "groupId": 200011,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0011",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200012,
     "groupId": 200012,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0012",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 200013,
     "groupId": 200013,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0013",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 200014,
     "groupId": 200014,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0014",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200015,
     "groupId": 200015,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0015",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 200016,
     "groupId": 200016,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0016",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 200017,
@@ -3573,63 +3573,63 @@
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0017",
     "price": 0.49000000953674316,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200018,
     "groupId": 200018,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0018",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 200019,
     "groupId": 200019,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0019",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200020,
     "groupId": 200020,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0020",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 200021,
     "groupId": 200021,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0021",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 200022,
     "groupId": 200022,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0022",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 200023,
     "groupId": 200023,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0023",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 200024,
     "groupId": 200024,
     "platform": "GlRazerGold",
     "productId": "colorfulstage.razer.crystal.0024",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210001,
@@ -3637,63 +3637,63 @@
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0001",
     "price": 0.49000000953674316,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 210002,
     "groupId": 210002,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0002",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 210003,
     "groupId": 210003,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0003",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210004,
     "groupId": 210004,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0004",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 210005,
     "groupId": 210005,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0005",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 210006,
     "groupId": 210006,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0006",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210007,
     "groupId": 210007,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0007",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 210008,
     "groupId": 210008,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0008",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210009,
@@ -3701,71 +3701,71 @@
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0009",
     "price": 0.49000000953674316,
-    "unitPrice": 1.09099996089935303
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 210010,
     "groupId": 210010,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0010",
-    "price": 0.99000000953674316,
-    "unitPrice": 1.09099996089935303
+    "price": 0.9900000095367432,
+    "unitPrice": 1.090999960899353
   },
   {
     "id": 210011,
     "groupId": 210011,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0011",
-    "price": 2.99000000953674316,
-    "unitPrice": 1.08899998664855957
+    "price": 2.990000009536743,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210012,
     "groupId": 210012,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0012",
-    "price": 7.98999977111816406,
-    "unitPrice": 1.03199994564056396
+    "price": 7.989999771118164,
+    "unitPrice": 1.031999945640564
   },
   {
     "id": 210013,
     "groupId": 210013,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0013",
-    "price": 14.98999977111816406,
-    "unitPrice": 1.02300000190734863
+    "price": 14.989999771118164,
+    "unitPrice": 1.0230000019073486
   },
   {
     "id": 210014,
     "groupId": 210014,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0014",
-    "price": 24.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 24.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210015,
     "groupId": 210015,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0015",
-    "price": 39.99000167846679688,
-    "unitPrice": 0.98000001907348633
+    "price": 39.9900016784668,
+    "unitPrice": 0.9800000190734863
   },
   {
     "id": 210016,
     "groupId": 210016,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0016",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210017,
     "groupId": 210017,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0017",
-    "price": 239.9900054931640625,
-    "unitPrice": 0.95300000905990601
+    "price": 239.99000549316406,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210018,
@@ -3773,78 +3773,78 @@
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0018",
     "price": 399.989990234375,
-    "unitPrice": 0.95300000905990601
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210019,
     "groupId": 210019,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollacrystal0019",
-    "price": 79.98999786376953125,
-    "unitPrice": 0.95300000905990601
+    "price": 79.98999786376953,
+    "unitPrice": 0.953000009059906
   },
   {
     "id": 210020,
     "groupId": 210020,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0020",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210021,
     "groupId": 210021,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0021",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210022,
     "groupId": 210022,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0022",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210023,
     "groupId": 210023,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0023",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210024,
     "groupId": 210024,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0024",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 210025,
     "groupId": 210025,
     "platform": "XsollaGl",
     "productId": "comsegacolorfulstageenxsollabundle0025",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 3000003,
     "groupId": 3000003,
     "platform": "iOS",
     "productId": "com.sega.colorfulstage.en.goldticket.0002",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   },
   {
     "id": 3000004,
     "groupId": 3000003,
     "platform": "Android",
     "productId": "com.sega.colorfulstage.en.goldticket.0002",
-    "price": 4.98999977111816406,
-    "unitPrice": 1.08899998664855957
+    "price": 4.989999771118164,
+    "unitPrice": 1.0889999866485596
   }
 ]
