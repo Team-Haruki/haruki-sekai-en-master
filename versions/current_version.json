@@ -1,10 +1,10 @@
 {
   "systemProfile": "production",
-  "appVersion": "5.5.0",
+  "appVersion": "5.6.0",
   "multiPlayVersion": "len",
   "dataVersion": "5.6.0.1",
   "assetVersion": "5.6.0.1",
-  "appHash": "d6f805a4-3d77-4967-91b8-a045d97e756c",
+  "appHash": "00b3600c-65e6-4086-b864-6da30ebc2642",
   "assetHash": "4a769ceb-8b67-4676-ac5a-9b37fa8ce8c5",
   "appVersionStatus": "available",
   "cdnVersion": 0
