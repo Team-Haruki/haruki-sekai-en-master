@@ -1,0 +1,11 @@
+{
+  "systemProfile": "production",
+  "appVersion": "6.1.5",
+  "multiPlayVersion": "len",
+  "dataVersion": "6.1.50.30",
+  "assetVersion": "6.1.50.30",
+  "appHash": "6509628a-73ca-468f-aed7-25454d94cf34",
+  "assetHash": "f145cae4-65ed-447b-b669-30357fc37fce",
+  "appVersionStatus": "available",
+  "cdnVersion": 0
+}
